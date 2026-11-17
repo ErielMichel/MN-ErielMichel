@@ -12,7 +12,7 @@ Se modelan tres fuerzas principales:
 ## 📊 Resultados
 El script compara una trayectoria sin giro (línea recta que se va afuera) contra una con giro (que se dobla hacia el arco).
 
-![Comparación de trayectorias](comparacion_efecto.png)
+![Comparación de trayectorias](comparacion_efecto.jpg)
 
 ## 🚀 Cómo ejecutarlo
 1. Instala las dependencias:
